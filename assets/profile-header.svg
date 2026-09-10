@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Qiyang Yu</title><desc id="desc">Computer Science at Wenzhou-Kean University. Machine learning and software systems.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2e"/><stop offset="1" stop-color="#173745"/></linearGradient><linearGradient id="line"><stop stop-color="#56d3c2"/><stop offset="1" stop-color="#90bfff"/></linearGradient></defs>
+<rect width="1200" height="290" rx="16" fill="url(#bg)"/>
+<g fill="none" stroke="#c0e5f3" stroke-opacity=".08"><path d="M750 45V245M810 45V245M870 45V245M930 45V245M990 45V245M1050 45V245M1110 45V245M730 70H1140M730 120H1140M730 170H1140M730 220H1140"/></g>
+<path d="M745 159C768 159 774 127 795 127S820 197 843 197S864 83 891 83S914 221 941 221S967 109 995 109S1014 179 1040 179S1074 139 1100 139S1122 153 1140 153" fill="none" stroke="url(#line)" stroke-width="3"/>
+<path d="M745 158C800 155 820 145 850 144S910 149 945 150S1010 148 1055 149S1100 152 1140 152" fill="none" stroke="#e4eef7" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x="58" y="49" width="34" height="3" rx="1.5" fill="#65d6c7"/>
+<text x="58" y="86" fill="#a6bdce" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">COMPUTER SCIENCE / SELECTED WORK</text>
+<text x="55" y="151" fill="#f4f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="650">Qiyang Yu</text>
+<text x="58" y="191" fill="#bdcedc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Machine learning. Thoughtful experiments. Useful software.</text>
+<text x="58" y="243" fill="#80ccca" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1">WENZHOU-KEAN UNIVERSITY</text>
+</svg>
